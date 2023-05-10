@@ -13,4 +13,5 @@ int main() {
         out += add;
     }
     cout << out;
+    return 0;
 }
